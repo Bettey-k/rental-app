@@ -24,7 +24,6 @@ const ProfileProperties = ({ properties: initialProperties }) => {
         <Image
           className="h-32 w-full rounded-md object-cover"
           src={property.images[0]}
-          wsx333333333
           alt="Property"
           width={100}
           height={200}
