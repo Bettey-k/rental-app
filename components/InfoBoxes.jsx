@@ -1,6 +1,7 @@
 import React from "react";
 import InfoBox from "./InfoBox";
 import Link from "next/link";
+
 const InfoBoxes = () => {
   return (
     <section>
@@ -11,7 +12,7 @@ const InfoBoxes = () => {
             backgroundColor="bg-gray-100"
             buttonInfo={{
               text: "Browse Properties",
-              Link: "/properties",
+              link: "/properties", // Updated to 'link' with lowercase 'l'
               backgroundColor: "bg-black",
             }}
           ></InfoBox>
@@ -20,7 +21,7 @@ const InfoBoxes = () => {
             backgroundColor="bg-blue-500"
             buttonInfo={{
               text: "Add Property",
-              Link: "/properties/add",
+              link: "/properties/add", // Updated to 'link' with lowercase 'l'
               backgroundColor: "bg-black",
             }}
           ></InfoBox>

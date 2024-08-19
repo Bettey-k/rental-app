@@ -1,15 +1,14 @@
 [
   {
-    "_id": "1",
     "owner": "1",
-    "name": "Boston Commons Retreat",
+    "name": "Addis Ababa Luxury Apartment",
     "type": "Apartment",
-    "description": "This is a beautiful apartment located near the commons. It is a 2 bedroom apartment with a full kitchen and bathroom. It is available for weekly or monthly rentals.",
+    "description": "This is a beautiful apartment located in the heart of Addis Ababa. It is a 2 bedroom apartment with a full kitchen and bathroom. It is available for weekly or monthly rentals.",
     "location": {
-      "street": "120 Tremont Street",
-      "city": "Boston",
-      "state": "MA",
-      "zipcode": "02108"
+      "street": "Bole Road",
+      "city": "Addis Ababa",
+      "state": "Addis Ababa",
+      "zipcode": "1000"
     },
     "beds": 2,
     "baths": 1,
@@ -35,9 +34,9 @@
       "monthly": 4200
     },
     "seller_info": {
-      "name": "John Doe",
-      "email": "john@gmail.com",
-      "phone": "617-555-5555"
+      "name": "Abebe Kebede",
+      "email": "abebe@gmail.com",
+      "phone": "251-911-555-555"
     },
     "images": ["a1.jpg", "a2.jpg", "a3.jpg"],
     "is_featured": false,
@@ -45,16 +44,15 @@
     "updatedAt": "2024-01-01T00:00:00.000Z"
   },
   {
-    "_id": "2",
     "owner": "1",
     "name": "Cozy Downtown Loft",
     "type": "Apartment",
     "description": "A cozy downtown loft with great city views.",
     "location": {
-      "street": "45 Main Street",
-      "city": "New York",
-      "state": "NY",
-      "zipcode": "10001"
+      "street": "Meskel Flower",
+      "city": "Addis Ababa",
+      "state": "Addis Ababa",
+      "zipcode": "1000"
     },
     "beds": 1,
     "baths": 1,
@@ -79,9 +77,9 @@
       "monthly": 4000
     },
     "seller_info": {
-      "name": "Jane Smith",
-      "email": "jane@gmail.com",
-      "phone": "212-555-5555"
+      "name": "Alemu Bekele",
+      "email": "alemu@gmail.com",
+      "phone": "251-911-555-556"
     },
     "images": ["b1.jpg", "b2.jpg", "b3.jpg"],
     "is_featured": false,
@@ -89,16 +87,15 @@
     "updatedAt": "2024-01-02T00:00:00.000Z"
   },
   {
-    "_id": "3",
     "owner": "2",
     "name": "Luxury Condo with a View",
     "type": "Condo",
     "description": "Experience luxury in this stunning condo with breathtaking views.",
     "location": {
-      "street": "500 Lux Lane",
-      "city": "Los Angeles",
-      "state": "CA",
-      "zipcode": "90001"
+      "street": "Kazanchis",
+      "city": "Addis Ababa",
+      "state": "Addis Ababa",
+      "zipcode": "1000"
     },
     "beds": 3,
     "baths": 2,
@@ -125,9 +122,9 @@
       "monthly": 3300
     },
     "seller_info": {
-      "name": "David Johnson",
-      "email": "david@gmail.com",
-      "phone": "213-555-5555"
+      "name": "Kebede Tadesse",
+      "email": "kebede@gmail.com",
+      "phone": "251-911-555-557"
     },
     "images": ["c1.jpg", "c2.jpg", "c3.jpg"],
     "is_featured": false,
@@ -135,16 +132,15 @@
     "updatedAt": "2024-01-03T00:00:00.000Z"
   },
   {
-    "_id": "4",
     "owner": "2",
     "name": "Charming Cottage Getaway",
     "type": "Cottage Or Cabin",
     "description": "Escape to this charming cottage for a peaceful retreat.",
     "location": {
-      "street": "123 Countryside Lane",
-      "city": "Austin",
-      "state": "TX",
-      "zipcode": "78701"
+      "street": "Entoto Avenue",
+      "city": "Addis Ababa",
+      "state": "Addis Ababa",
+      "zipcode": "1000"
     },
     "beds": 1,
     "baths": 1,
@@ -159,9 +155,9 @@
       "weekly": 2000
     },
     "seller_info": {
-      "name": "Emily Davis",
-      "email": "emily@gmail.com",
-      "phone": "512-555-5555"
+      "name": "Selamawit Yilma",
+      "email": "selamawit@gmail.com",
+      "phone": "251-911-555-558"
     },
     "images": ["d1.jpg", "d2.jpg", "d3.jpg"],
     "is_featured": false,
@@ -169,16 +165,15 @@
     "updatedAt": "2024-01-04T00:00:00.000Z"
   },
   {
-    "_id": "5",
     "owner": "3",
     "name": "Modern Downtown Studio",
     "type": "Studio",
     "description": "Stay in style in this modern downtown studio apartment.",
     "location": {
-      "street": "75 Urban Avenue",
-      "city": "Chicago",
-      "state": "IL",
-      "zipcode": "60601"
+      "street": "Sar Bet",
+      "city": "Addis Ababa",
+      "state": "Addis Ababa",
+      "zipcode": "1000"
     },
     "beds": 1,
     "baths": 1,
@@ -195,9 +190,9 @@
       "monthly": 4200
     },
     "seller_info": {
-      "name": "Michael Brown",
-      "email": "michael@gmail.com",
-      "phone": "312-555-5555"
+      "name": "Tesfaye Dinku",
+      "email": "tesfaye@gmail.com",
+      "phone": "251-911-555-559"
     },
     "images": ["e1.jpg", "e2.jpg", "e3.jpg"],
     "is_featured": true,
@@ -205,16 +200,15 @@
     "updatedAt": "2024-01-05T00:00:00.000Z"
   },
   {
-    "_id": "6",
     "owner": "3",
     "name": "Seaside Retreat",
     "type": "House",
     "description": "Escape to this seaside house for a relaxing getaway.",
     "location": {
-      "street": "456 Oceanfront Drive",
-      "city": "Miami",
-      "state": "FL",
-      "zipcode": "33101"
+      "street": "Ocean Road",
+      "city": "Dire Dawa",
+      "state": "Dire Dawa",
+      "zipcode": "2000"
     },
     "beds": 4,
     "baths": 3,
@@ -231,9 +225,9 @@
       "weekly": 2500
     },
     "seller_info": {
-      "name": "Sarah Wilson",
-      "email": "sarah@gmail.com",
-      "phone": "305-555-5555"
+      "name": "Hana Alemayehu",
+      "email": "hana@gmail.com",
+      "phone": "251-911-555-560"
     },
     "images": ["f1.jpg", "f2.jpg", "f3.jpg"],
     "is_featured": true,
@@ -241,16 +235,15 @@
     "updatedAt": "2024-01-06T00:00:00.000Z"
   },
   {
-    "_id": "7",
     "owner": "4",
     "name": "Rustic Cabin in the Woods",
     "type": "Cottage Or Cabin",
     "description": "Experience nature in this cozy rustic cabin.",
     "location": {
-      "street": "789 Forest Lane",
-      "city": "Denver",
-      "state": "CO",
-      "zipcode": "80201"
+      "street": "Menagesha Forest",
+      "city": "Addis Ababa",
+      "state": "Addis Ababa",
+      "zipcode": "1000"
     },
     "beds": 2,
     "baths": 1,
@@ -266,9 +259,9 @@
       "weekly": 2000
     },
     "seller_info": {
-      "name": "Robert Anderson",
-      "email": "robert@gmail.com",
-      "phone": "303-555-5555"
+      "name": "Birhanu Melesse",
+      "email": "birhanu@gmail.com",
+      "phone": "251-911-555-561"
     },
     "images": ["g1.jpg", "g2.jpg", "g3.jpg"],
     "is_featured": false,
@@ -276,16 +269,15 @@
     "updatedAt": "2024-01-07T00:00:00.000Z"
   },
   {
-    "_id": "8",
     "owner": "5",
     "name": "Ski-In/Ski-Out Chalet",
     "type": "Chalet",
     "description": "Hit the slopes from this cozy ski-in/ski-out chalet.",
     "location": {
-      "street": "321 Mountain Road",
-      "city": "Aspen",
-      "state": "CO",
-      "zipcode": "81611"
+      "street": "Entoto Mountain",
+      "city": "Addis Ababa",
+      "state": "Addis Ababa",
+      "zipcode": "1000"
     },
     "beds": 3,
     "baths": 2,
@@ -301,9 +293,9 @@
       "weekly": 1100
     },
     "seller_info": {
-      "name": "Jennifer Martin",
-      "email": "jennifer@gmail.com",
-      "phone": "970-555-5555"
+      "name": "Mulu Solomon",
+      "email": "mulu@gmail.com",
+      "phone": "251-911-555-562"
     },
     "images": ["h1.jpg", "h2.jpg", "h3.jpg"],
     "is_featured": false,
@@ -311,16 +303,15 @@
     "updatedAt": "2024-01-08T00:00:00.000Z"
   },
   {
-    "_id": "9",
     "owner": "6",
     "name": "Mountain View Retreat",
     "type": "House",
     "description": "Enjoy stunning mountain views from this spacious retreat.",
     "location": {
-      "street": "600 Summit Drive",
-      "city": "Boulder",
-      "state": "CO",
-      "zipcode": "80301"
+      "street": "Entoto Avenue",
+      "city": "Addis Ababa",
+      "state": "Addis Ababa",
+      "zipcode": "1000"
     },
     "beds": 4,
     "baths": 3,
@@ -337,9 +328,9 @@
       "monthly": 3800
     },
     "seller_info": {
-      "name": "Lisa Taylor",
-      "email": "lisa@gmail.com",
-      "phone": "303-555-5555"
+      "name": "Sara Bekele",
+      "email": "sara@gmail.com",
+      "phone": "251-911-555-563"
     },
     "images": ["i1.jpg", "i2.jpg", "i3.jpg"],
     "is_featured": false,
@@ -347,16 +338,15 @@
     "updatedAt": "2024-01-09T00:00:00.000Z"
   },
   {
-    "_id": "10",
     "owner": "7",
     "name": "Historic Downtown Loft",
     "type": "Apartment",
     "description": "Step back in time with a stay in this historic downtown loft.",
     "location": {
-      "street": "123 History Lane",
-      "city": "Philadelphia",
-      "state": "PA",
-      "zipcode": "19101"
+      "street": "Churchill Avenue",
+      "city": "Addis Ababa",
+      "state": "Addis Ababa",
+      "zipcode": "1000"
     },
     "beds": 2,
     "baths": 1,
@@ -372,9 +362,9 @@
       "monthly": 2100
     },
     "seller_info": {
-      "name": "Matthew Harris",
-      "email": "matthew@gmail.com",
-      "phone": "215-555-5555"
+      "name": "Getachew Fikre",
+      "email": "getachew@gmail.com",
+      "phone": "251-911-555-564"
     },
     "images": ["j1.jpg", "j2.jpg", "j3.jpg"],
     "is_featured": false,
